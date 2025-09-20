@@ -9,6 +9,7 @@ This is a demo version of my Workout Logger web app designed to showcase feature
 - Preview images based on workout type
 - Filter workouts by type or date
 - Clean, colorful UI with responsive design
+<img width="2656" height="1412" alt="image" src="https://github.com/user-attachments/assets/bad3b8a9-ade5-48ec-a75a-aaa30080e4d9" />
 
 ## Demo Mode
 Click "Guest Mode" on the login page to explore the site without creating an account.
